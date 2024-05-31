@@ -3,8 +3,7 @@ import {
   Form,
   Link,
   redirect,
-  useFetcher,
-  useNavigate
+  useFetcher
 } from 'react-router-dom';
 import { deleteProduct } from '../services/ProductService';
 import { Product } from '../types';
@@ -24,7 +23,7 @@ export const action = async ({ params }: ActionFunctionArgs) => {
 
 const ProductsDetails = ({ product }: ProductsDetailsProps) => {
   const fetcher = useFetcher();
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
   const isAvailable = product.available;
   return (
     <tr className='border-b '>
