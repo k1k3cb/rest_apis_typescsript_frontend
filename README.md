@@ -1,6 +1,6 @@
 # Administrador de productos
 
-![Imagen del proyecto](https://raw.githubusercontent.com/k1k3cb/cotizador-criptomonedas-react-ts/main/public/github/cotizador%2000.webp)
+![Imagen del proyecto](https://raw.githubusercontent.com/k1k3cb/rest_apis_typescsript_frontend/main/public/administrador%20productos%2000.webp)
 
 ## Ejemplo en vivo
  
@@ -10,7 +10,7 @@
 
 ## Descripción 📑
 
-Administrador de productos con el que poder añadir editar y eliminar nuevos productos, además también puedes cambiar la disponibilidad de ellos.
+Administrador de productos con el que poder añadir, editar y eliminar nuevos productos, además también puedes cambiar la disponibilidad de ellos.
 
 
 
@@ -53,7 +53,8 @@ Administrador de productos con el que poder añadir editar y eliminar nuevos pro
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://raw.githubusercontent.com/k1k3cb/cotizador-criptomonedas-react-ts/main/public/github/cotizador%2001.webp)
+![Captura del proyecto](https://raw.githubusercontent.com/k1k3cb/rest_apis_typescsript_frontend/main/public/administrador%20productos%2001.webp)
+![Captura del proyecto](https://raw.githubusercontent.com/k1k3cb/rest_apis_typescsript_frontend/main/public/administrador%20productos%2002.webp)
 
 
 
